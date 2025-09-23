@@ -1,5 +1,7 @@
 ## Data Science
 
+[link](https://www.youtube.com/watch?v=gDZ6czwuQ18&t=5623s) 4:40:29
+
 ### Topics
 
 - Percentiles and Quantiles
