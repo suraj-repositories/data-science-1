@@ -1,6 +1,6 @@
 ## Data Science
 
-[link](https://www.youtube.com/watch?v=gDZ6czwuQ18&t=5623s) 6:42:29
+[link](https://www.youtube.com/watch?v=gDZ6czwuQ18&t=5623s) 7:03:27
 
 ### Topics
 
